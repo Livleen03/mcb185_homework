@@ -28,6 +28,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
+	+ Attended Class Tuesday
+	+ Introduced myself to Jule 
+	+ Attended Class Thursday 
+	+ Volunteered at the front of class Thursday 
+	+ Other (answered a question asked by professor when setting up git and asked person 
+	next to me question during class)
+	+ Total 5 points 
+	
 - Week 2
 - Week 3
 - Week 4
