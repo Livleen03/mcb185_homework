@@ -39,7 +39,10 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 2
     + Attended Class Tuesday
     + Attended Class Thursday 
-    + I met Elizabeth on Thursday  
+    + I met Elizabeth on Thursday
+    + I asked a question to classmate about the formatting of Markdown
+    + I answered a question asked to me by Elizabeth
+    + Total 5 points   
 - Week 3
 - Week 4
 - Week 5
