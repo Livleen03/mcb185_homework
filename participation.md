@@ -44,6 +44,14 @@ more than one point per category. There is a maximum of 5 points each week.
     + I answered a question asked to me by Elizabeth
     + Total 5 points   
 - Week 3
+	+ Attended class Tuesday
+	+ Attended class Thursday 
+	+ Took the Unit 0 assesment on Discord Monday and attempted the assesment in class on 
+	  Tuesday in class for practice with Itzel 
+	+ Asked classmate question about how to find distance between two points and what 
+	  I was typing wrong in editor
+	+ Answered question classmate had about Unit 0 Homework 
+	+ Total 5 points 
 - Week 4
 - Week 5
 - Week 6
