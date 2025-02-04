@@ -53,6 +53,13 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Answered question classmate had about Unit 0 Homework 
 	+ Total 5 points 
 - Week 4
+	+ Attended class Tuesday
+	+ Attended class Thursday
+	+ Introduced myself to Karen
+	+ Asked question to classmate about how they wrote their code for a practice question
+	+ Helped classmate on homework
+	+ Took Unit 0 assesment in class as practice on Tuesday  
+	+ Total 5 points 
 - Week 5
 - Week 6
 - Week 7
