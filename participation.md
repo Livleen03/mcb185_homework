@@ -61,6 +61,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Took Unit 0 assesment in class as practice on Tuesday  
 	+ Total 5 points 
 - Week 5
+	+ Attended class Tuesday 
+	+ Attended Class Thursday
+	+ Took unit 1 assesment on discord 
+	+ Helped classmate with hw from unit 1
+	+ Asked classmate help during class on if I wrote code correctly 
 - Week 6
 - Week 7
 - Week 8
