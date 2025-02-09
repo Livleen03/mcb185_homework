@@ -66,6 +66,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Took unit 1 assesment on discord 
 	+ Helped classmate with hw from unit 1
 	+ Asked classmate help during class on if I wrote code correctly 
+	+ Total 5 points 
 - Week 6
 - Week 7
 - Week 8
