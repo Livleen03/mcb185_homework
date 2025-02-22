@@ -65,7 +65,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended Class Thursday
 	+ Took unit 1 assesment on discord 
 	+ Helped classmate with hw from unit 1
-	+ Asked classmate help during class on if I wrote code correctly 
+	+ Asked classmate for help during class on if I wrote code correctly 
 	+ Total 5 points 
 - Week 6
 	+ Attended class Tuesday
@@ -75,6 +75,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ comapred code with classmate during class when following demo
 	+ Total 5 points 
 - Week 7
+	+ Attended class Tuesday
+	+ Attended class Thursday
+	+ Had review session with classmate on discord
+	+ Took unit 2 assesment on discord
+	+ Asked classmate about something being shown in demo in class
+	+ Total 5 points
 - Week 8
 - Week 9
 - Week 10
