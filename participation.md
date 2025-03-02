@@ -82,5 +82,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Asked classmate about something being shown in demo in class
 	+ Total 5 points
 - Week 8
+	+ Attended Class Tuesday
+	+ Attended class Thursday
+	+ Helped classmate in 33birthday HW
+	+ Asked classmate about part of code during demo by professor
+	+ Took assesment on discord
+	+ Did review session with classmate on discord 
+	+ Total 5 points 
 - Week 9
 - Week 10
