@@ -98,4 +98,9 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ asked question to classmate in class about demo 
 	+ Total 5 points
 - Week 10
-	
+	+ Attended Class Tuesday (no class Thursday this week)
+	+ Took paper assessment for practice in class
+	+ asked clarification question to classmate in class during demo
+	+ will to do review session on discord Sunday (3/16) with classmate for unit 4
+	+ will take unit 4 assessment Sunday or Monday
+	+ Total 5 points 
