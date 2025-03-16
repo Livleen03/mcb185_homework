@@ -27,6 +27,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Introduced myself to Chris B
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
+
 - Week 1
 	+ Attended Class Tuesday
 	+ Introduced myself to Jule 
@@ -90,4 +91,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Did review session with classmate on discord 
 	+ Total 5 points 
 - Week 9
+	+ Attended Class Tuesday
+	+ Attended Class Thursday 
+	+ Did written test on Tuesday for practice
+	+ Did review session/ worked on hw on discord with classmate
+	+ asked question to classmate in class about demo 
+	+ Total 5 points
 - Week 10
+	
